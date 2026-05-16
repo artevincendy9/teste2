@@ -1,0 +1,17 @@
+{
+  "name": "shopify-god-tier-replit",
+  "version": "4.0.0",
+  "description": "God-Tier Shopify Bulk Order Automator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^147.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "puppeteer-core": "^24.42.0",
+    "undici": "^7.25.0"
+  }
+}
